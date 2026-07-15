@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Recipe Box",
+    "slug": "recipe-box",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#16161e",
+    "splash": { "backgroundColor": "#16161e" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.johnny.recipebox" },
+    "android": { "package": "com.johnny.recipebox" }
+  }
+}
